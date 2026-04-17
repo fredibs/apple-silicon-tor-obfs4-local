@@ -20,5 +20,4 @@ services:
 
 volumes:
   tor-data:
-
   

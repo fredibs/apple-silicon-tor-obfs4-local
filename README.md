@@ -1,4 +1,4 @@
-# tor-obfs4-local
+# apple-silicon-tor-obfs4-local
 Container servidor  tor local
 
 Proxy SOCKS (uso geral)
